@@ -32,7 +32,7 @@ The goals / steps of this project are the following:
 [warped_img]:  ./output_images/warped_img.png
 [sliding_window]:  ./output_images/sliding_window.png
 [histogram_image]:  ./output_images/undistorted_sample.png
-[curved_image]:  ./output_images/curved_image.png
+[curved_image]:  ./output_images/curved_image.jpg
 [video1]: ./project_video.mp4 "Video"
 
 
