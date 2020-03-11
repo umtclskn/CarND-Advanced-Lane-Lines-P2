@@ -155,8 +155,8 @@ And using the sliding_windows_find_lanes_coeffs functions for tracking and manag
 This Function is processing and detecting lines in image
 > def pipeline (img):
 
-Here's a [link to my video result](./[project_video_output.mp4])
 
+[Project video ](./project_video_output.mp4)
 ---
 
 ### Discussion
