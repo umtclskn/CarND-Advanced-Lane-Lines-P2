@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[chessboard_image]: ./output_images/undistort_output.png
+[chessboard_image]: ./output_images/calibration_images.png
 [undistorted_image]: ./output_images/undistorted_chessboard.png 
 [calibrated_image]: ./output_images/undistorted_sample.png
 [sobel_x]:  ./output_images/sobel_x.png
